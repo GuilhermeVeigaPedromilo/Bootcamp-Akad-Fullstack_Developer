@@ -1,0 +1,12 @@
+C:\Users\Gui\Documents\GUI\Cursos\DIO cursos\Bootcamp-Akad-Fullstack_Developer\dotnet-project-console\ExampleDotnetProject.Common\obj\Debug\net9.0\ExampleDotnetProject.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gui\Documents\GUI\Cursos\DIO cursos\Bootcamp-Akad-Fullstack_Developer\dotnet-project-console\ExampleDotnetProject.Common\obj\Debug\net9.0\ExampleDotnetProject.Common.AssemblyInfoInputs.cache
+C:\Users\Gui\Documents\GUI\Cursos\DIO cursos\Bootcamp-Akad-Fullstack_Developer\dotnet-project-console\ExampleDotnetProject.Common\obj\Debug\net9.0\ExampleDotnetProject.Common.AssemblyInfo.cs
+C:\Users\Gui\Documents\GUI\Cursos\DIO cursos\Bootcamp-Akad-Fullstack_Developer\dotnet-project-console\ExampleDotnetProject.Common\obj\Debug\net9.0\ExampleDotnetProject.Common.csproj.CoreCompileInputs.cache
+C:\Users\Gui\Documents\GUI\Cursos\DIO cursos\Bootcamp-Akad-Fullstack_Developer\dotnet-project-console\ExampleDotnetProject.Common\obj\Debug\net9.0\ExampleDotnetProject.Common.sourcelink.json
+C:\Users\Gui\Documents\GUI\Cursos\DIO cursos\Bootcamp-Akad-Fullstack_Developer\dotnet-project-console\ExampleDotnetProject.Common\bin\Debug\net9.0\ExampleDotnetProject.Common.deps.json
+C:\Users\Gui\Documents\GUI\Cursos\DIO cursos\Bootcamp-Akad-Fullstack_Developer\dotnet-project-console\ExampleDotnetProject.Common\bin\Debug\net9.0\ExampleDotnetProject.Common.dll
+C:\Users\Gui\Documents\GUI\Cursos\DIO cursos\Bootcamp-Akad-Fullstack_Developer\dotnet-project-console\ExampleDotnetProject.Common\bin\Debug\net9.0\ExampleDotnetProject.Common.pdb
+C:\Users\Gui\Documents\GUI\Cursos\DIO cursos\Bootcamp-Akad-Fullstack_Developer\dotnet-project-console\ExampleDotnetProject.Common\obj\Debug\net9.0\ExampleDotnetProject.Common.dll
+C:\Users\Gui\Documents\GUI\Cursos\DIO cursos\Bootcamp-Akad-Fullstack_Developer\dotnet-project-console\ExampleDotnetProject.Common\obj\Debug\net9.0\refint\ExampleDotnetProject.Common.dll
+C:\Users\Gui\Documents\GUI\Cursos\DIO cursos\Bootcamp-Akad-Fullstack_Developer\dotnet-project-console\ExampleDotnetProject.Common\obj\Debug\net9.0\ExampleDotnetProject.Common.pdb
+C:\Users\Gui\Documents\GUI\Cursos\DIO cursos\Bootcamp-Akad-Fullstack_Developer\dotnet-project-console\ExampleDotnetProject.Common\obj\Debug\net9.0\ref\ExampleDotnetProject.Common.dll
