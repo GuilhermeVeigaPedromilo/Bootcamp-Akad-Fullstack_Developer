@@ -32,7 +32,7 @@ Conta novaConta = new Conta
 };
 
 // Criar a pessoa e associar a conta
-Pessoa first_person = new Pessoa
+Pessoa person = new Pessoa
 {
     Name = name,
     Age = age,
@@ -40,14 +40,16 @@ Pessoa first_person = new Pessoa
     Conta = novaConta // associação direta
 };
 
+
+
 // Testes
 Console.WriteLine("\n===== RESULT =====");
-first_person.Apresentar();
-first_person.MostrarConta();
+person.Apresentar();
+person.MostrarConta();
 
 // Exemplo de operação na conta
 Console.WriteLine("\nMaking a deposit of 500...");
-first_person.Conta.Depositar(500);
+person.Conta.Depositar(500);
 
 // Pessoa first_person = new Pessoa();
 
